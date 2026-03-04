@@ -151,3 +151,8 @@ outputs/
 *.lang
 *.country
 logs/
+
+outputs/
+*.lang
+*.country
+logs/
